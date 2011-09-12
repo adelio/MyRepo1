@@ -6,3 +6,4 @@ int main(int argc, char **argv)
 	return 0;
 }
 added 1
+added2
